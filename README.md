@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **advanced techniques for analyzing large and complex datasets. This includes mastering statistical methods, exploratory data analysis (EDA), and predictive modeling to extract valuable insights and trends from raw data.**
   
 
-- 👨‍💻 I,m exploring on **Understanding the importance of effective data communication, I am delving into the art of data visualization. Through tools like Tableau and Power BI, I am learning how to create visually compelling and informative representations of data, making complex information more accessible and understandable to stakeholders.**
+- 👨‍💻 I'm exploring on **Understanding the importance of effective data communication, I am delving into the art of data visualization. Through tools like Tableau and Power BI, I am learning how to create visually compelling and informative representations of data, making complex information more accessible and understandable to stakeholders.**
 
   
 
