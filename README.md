@@ -1,6 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://rishavchanda.io)
-
-<h1 align="center">Hi 👋, I'm Parul Ghai</h1>
+<h1 align="center">Hi👋, I'm Parul Ghai</h1>
 <h3 align="center">Passionate about data analysis and deriving insights, I'm committed to honing my skills as a data analyst. Aiming to leverage technology to uncover meaningful insights and drive informed decision-making.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/11/hyu.gif">
