@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/11/hyu.gif">
 
-- 🔭 I’m currently persuing **Masters in Information Technology and Analytics from Rutgers University**
+- 🔭 I’m currently pursuing **Masters in Information Technology and Analytics from Rutgers University**
 
   
 
