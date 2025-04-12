@@ -1,25 +1,29 @@
 [![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://rishavchanda.io)
 <h1 align="center">Hi👋, I'm Parul Ghai</h1>
-<h3 align="center">Passionate about data analysis and deriving insights, I'm committed to honing my skills as a data analyst. Aiming to leverage technology to uncover meaningful insights and drive informed decision-making.</h3>
+<h3 align="center">🎓 **Adjunct Lecturer | Data Analyst | Software Engineer**
+💡 Passionate about building data-powered solutions that create real impact
+📍 Based in NYC | 💬 Open to opportunities in Data, AI, or Software Development</h3>
 
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/11/hyu.gif">
 
-- 🔭 I’m currently pursuing **Masters in Information Technology and Analytics from Rutgers University**
+- 🔭 I recently graduated with a **Master’s in Information Technology and Analytics from Rutgers University**, where I was inducted into **Beta Gamma Sigma**, the international honor society for top business students. I’m currently working as an Adjunct Lecturer at Rutgers, teaching Python, data analysis, and business research methods to undergraduate students.
+
+I'm driven by the intersection of data, technology, and education, and I love solving real-world problems—whether it's forecasting healthcare demand or helping students write their first line of code.
 
   
 
-- 🌱 I’m currently learning **advanced techniques for analyzing large and complex datasets. This includes mastering statistical methods, exploratory data analysis (EDA), and predictive modeling to extract valuable insights and trends from raw data.**
-  
+# Professional Experience Highlights:
 
-- 👨‍💻 I'm exploring on **Understanding the importance of effective data communication, I am delving into the art of data visualization. Through tools like Tableau and Power BI, I am learning how to create visually compelling and informative representations of data, making complex information more accessible and understandable to stakeholders.**
+**Accenture Solutions** – Developed .NET-based applications, automated invoicing workflows, and enhanced reporting systems for retail clients like WHSmith
 
+**HCL Technologies** – Supported enterprise network monitoring using ServiceNow; improved IT resolution times and performance
+
+**Rutgers University (Lecturer )** – Currently teaching Python, Business Research Methods, and AI tools to undergraduate students
   
 
 - 📫 How to reach me **pg611@scarletmail.rutgers.edu**
 
-- 📄 My Experiences
-
-  **With a background in Information Technology and Analytics, I have garnered valuable experience in software development and data analysis. During my tenure at Accenture Solutions Ltd, I orchestrated end-to-end application design and development, achieving significant improvements in application functionality. At HCL Technologies, I honed my skills in network performance monitoring and business analytics, contributing to enhanced productivity and profitability. I am currently pursuing a Master's in Information Technology and Analytics, where I am furthering my expertise in data analysis and visualization. My GitHub profile showcases my journey and expertise, offering insights into my projects and contributions in the field of technology.**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
