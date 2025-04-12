@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://rishavchanda.io)
 <h1 align="center">Hi👋, I'm Parul Ghai</h1>
-<h3 align="center">🎓 **Adjunct Lecturer | Data Analyst | Software Engineer**
+<h3 align="center">🎓 Adjunct Lecturer | Data Analyst | Software Engineer
 💡 Passionate about building data-powered solutions that create real impact
 📍 Based in NYC | 💬 Open to opportunities in Data, AI, or Software Development</h3>
 
@@ -19,6 +19,9 @@ I'm driven by the intersection of data, technology, and education, and I love so
 **HCL Technologies** – Supported enterprise network monitoring using ServiceNow; improved IT resolution times and performance
 
 **Rutgers University (Lecturer )** – Currently teaching Python, Business Research Methods, and AI tools to undergraduate students
+
+
+
   
 
 - 📫 How to reach me **pg611@scarletmail.rutgers.edu**
